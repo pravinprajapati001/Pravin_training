@@ -14,7 +14,7 @@ class _SecondAppState extends State<SecondApp> {
       debugShowCheckedModeBanner: false,
         home: Scaffold(
           appBar: AppBar(
-            title: const Text('Second App'),
+            title: const Text('Second App 2222222'),
           ),
           body: Container(
             padding: EdgeInsets.all(20),
