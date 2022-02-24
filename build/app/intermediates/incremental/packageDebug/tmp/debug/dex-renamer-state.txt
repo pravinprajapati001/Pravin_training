@@ -1,0 +1,4 @@
+#Thu Feb 24 16:30:53 IST 2022
+base.0=/Users/ndbit-05macmini/StudioProjects/helloApp/Pravin_training/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

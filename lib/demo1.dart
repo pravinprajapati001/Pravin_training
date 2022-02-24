@@ -16,10 +16,25 @@ class _SecondAppState extends State<SecondApp> {
           appBar: AppBar(
             title: const Text('Second App 2222222'),
           ),
-          body: Container(
-            padding: EdgeInsets.all(20),
-            child: const Text('Hello world'),
-          ),
+          body: Center(
+           child: Container(
+             decoration: const BoxDecoration(color: Colors.blueGrey),
+              height: 200,
+              width: 300,
+              child: Column(
+                children: const [
+                  Text("pravin",style: TextStyle(fontWeight: FontWeight.bold),textAlign: TextAlign.start,),
+                  Text("pravin"),
+                  Text("pravin"),
+                  Text("pravin"),
+                  Text("pravin"),
+                  Text("pravin"),
+                ],
+              ),
+
+            ),
+          )
+
         ),
     );
   }
